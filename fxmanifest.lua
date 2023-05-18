@@ -1,7 +1,6 @@
-author 'JokeDevil'
-description 'FXServer logs to Discord (https://www.jokedevil.com/)'
+author 'Lakicc Tata'
+description 'JD_LOGS'
 version '1.1.1'
-url 'https://jokedevil.com'
 
 -- Config
 server_script 'config.lua'
